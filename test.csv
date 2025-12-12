@@ -1,0 +1,5 @@
+date,fromAccount,toAccount,amount
+2025-01-01,acct1,rec1,100
+2025-01-02,acct1,rec2,150
+2025-01-03,acct1,rec3,200
+2025-01-04,acct1,rec4,250000
